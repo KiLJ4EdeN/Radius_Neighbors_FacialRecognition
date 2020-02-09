@@ -1,0 +1,2 @@
+# Radius_Neighbors_FacialRecognition
+Facial recognition applying the scikit-learn RadiusNeighborsClassifier.
